@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "37195938868",
+    "firebase_url": "https://mynewproject-5926f.firebaseio.com",
+    "project_id": "mynewproject-5926f",
+    "storage_bucket": "mynewproject-5926f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37195938868:android:f0b4b5bab013b828",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37195938868-8khq4hqjkcirpv6m6h5b03lccvuariv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeSqhYGqV8HMbk6E4TczkC-OEV75WBAbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37195938868:android:58be160d24eeed15",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.firebasenotification.full"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37195938868-8khq4hqjkcirpv6m6h5b03lccvuariv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeSqhYGqV8HMbk6E4TczkC-OEV75WBAbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37195938868:android:553b4a106801fdaf",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.firebasenotification.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37195938868-8khq4hqjkcirpv6m6h5b03lccvuariv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeSqhYGqV8HMbk6E4TczkC-OEV75WBAbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lenovo/AndroidStudioProjects/Trainer/FirebaseNotification/app/build/intermediates/incremental-classes/first/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b778cdbf3c07e9037e1c9ecfec1a9add0be60e0">
+        <dex dex="/home/lenovo/AndroidStudioProjects/Trainer/FirebaseNotification/app/build/intermediates/transforms/dex/first/debug/folders/1000/10000/instant-run-bootstrap_d244519241b1682454a06025b8a4f892e88647d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lenovo/AndroidStudioProjects/Trainer/FirebaseNotification/app/build/intermediates/incremental-runtime-classes/first/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/lenovo/AndroidStudioProjects/Trainer/FirebaseNotification/app/build/intermediates/transforms/dex/first/debug/folders/1000/10000/instant-run_ab5e24c6636aceaec11453da8f042007d02ad3c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lenovo/AndroidStudioProjects/Trainer/FirebaseNotification/app/build/intermediates/incremental-classes/full/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="62012232d205fcebca1f51e938c12a9970e2d1b1">
+        <dex dex="/home/lenovo/AndroidStudioProjects/Trainer/FirebaseNotification/app/build/intermediates/transforms/dex/full/debug/folders/1000/10000/instant-run-bootstrap_5423512f37471b10b0c5880585fdda0a1f37562d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lenovo/AndroidStudioProjects/Trainer/FirebaseNotification/app/build/intermediates/incremental-runtime-classes/full/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/lenovo/AndroidStudioProjects/Trainer/FirebaseNotification/app/build/intermediates/transforms/dex/full/debug/folders/1000/10000/instant-run_ad99b2e39a37ea24f08ba95f029134e2b3e12581/classes.dex" />
+    </item>
+
+</items>
